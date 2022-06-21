@@ -1,7 +1,7 @@
 {
-	"name": "ts-for-markdown",
-	"displayName": "ts for markdown",
-	"description": "Embedded TS language server enables you to write JS, TS, JSX and TSX more smoothly.",
+	"name": "markdown-code-block-language-support",
+	"displayName": "markdown-code-block-language-support",
+	"description": "Embedded language server enables you to write markdown code block content more smoothly.",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.68.0"
